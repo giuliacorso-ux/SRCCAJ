@@ -1,0 +1,131 @@
+label	replace by
+climate warming	climate change
+global climate change	climate change
+climate crisis	climate change
+climate change challenges	climate change
+adaptation	climate change adaptation
+climate adaptation	climate change adaptation
+adaptation to climate change	climate change adaptation
+climate change adaptation measures	adaptation measures
+adaptive behaviour	adaptation behaviour
+adaptive behavior	adaptation behaviour
+adaptation behavior	adaptation behaviour
+adaptation behaviours	adaptation behaviour
+adaptation behaviors	adaptation behaviour
+adaptive behaviours	adaptation behaviour
+adaptive behaviors	adaptation behaviour
+farmers' adaptation behaviour	adaptation behaviour
+farmers' adaptation behavior	adaptation behaviour
+climate adaptation behavior	adaptation behaviour
+farmer	farmers
+peasant	farmers
+peasants	farmers
+rural household	farmers
+rural households	farmers
+farm household	farmers
+farm households	farmers
+farming households	farmers
+herdsman	herders
+herdsmen	herders
+herder	herders
+pastoralists	herders
+adaptability	adaptive capacity
+adaptation capacity	adaptive capacity
+adaptation ability	adaptive capacity
+adaptive ability	adaptive capacity
+adaptive capability	adaptive capacity
+poverty alleviation	poverty reduction
+ecological civilisation	ecological civilization
+public engagement	public participation
+vulnerable group	vulnerable groups
+vulnerable population	vulnerable groups
+vulnerable populations	vulnerable groups
+vulnerable communities	vulnerable groups
+disadvantaged groups	vulnerable groups
+disadvantaged group	vulnerable groups
+resilient city	climate-resilient city
+climate resilient city	climate-resilient city
+climate-adaptive city	climate-resilient city
+climate adaptive city	climate-resilient city
+climate-resilient cities	climate-resilient city
+sponge cities	sponge city
+extreme weather event	extreme weather
+extreme weather events	extreme weather
+extreme climate events	extreme weather
+extreme climate event	extreme weather
+perceptions	perception
+climate change perception	perception
+livelihood	livelihoods
+policy tools	policy instruments
+policy tool	policy instruments
+study	
+paper	
+article	
+research	
+result	
+results	
+analysis	
+basis	
+aspect	
+aspects	
+way	
+ways	
+view	
+order	
+background	
+context	
+purpose	
+importance	
+case	
+author	
+authors	
+year	
+years	
+period	
+time	
+process	
+problem	
+problems	
+issue	
+issues	
+field	
+level	
+levels	
+method	
+methods	
+approach	
+perspective	
+suggestion	
+suggestions	
+conclusion	
+finding	
+findings	
+paper analyses	
+reference	
+part	
+term	
+terms	
+number	
+respect	
+addition	
+means	
+role	
+need	
+needs	
+new era	
+country	
+countries	
+world	
+present	
+current situation	
+attention	
+effect	
+effects	
+impact	
+impacts	
+factor	
+factors	
+fact	
+light	
+end	
+scale	
